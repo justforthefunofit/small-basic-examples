@@ -1,6 +1,9 @@
 # small-basic-examples
 Here you can find a number of different smaller basic programs that can be used on the Commodore 64.
 
+2023-12-23 added Santa on his sled
+![image](https://github.com/justforthefunofit/small-basic-examples/assets/116113817/6628f1d8-7706-4ef3-9d78-d2b0f09763f8)
+
 For example a number of variants of a bouncing ball
 
 <img src="https://github.com/justforthefunofit/small-basic-examples/assets/116113817/a45ca521-188e-43bd-a6c1-b9e0203fe67d)" width="420">
